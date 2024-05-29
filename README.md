@@ -9,13 +9,15 @@ The purpose of this study is to understand:
 - Can we imporve the performance on Nepali for LLaMA 3 8B with LoRA?
 
 # Datasets
-We will be randomly splitting Alpaca and Aya datasets into test and train. We will use Alpaca for evaluation only, while Aya dataset will be use for both training and evaluation.
+Aya dataset might not be enough for training so we will use a train split from Alpaca dataset as well.
 - Evaluation Data:
     - Test Split from [Aya Dataset](https://huggingface.co/datasets/CohereForAI/aya_dataset)
+    - Test Split from [Alpaca Cleaned](https://huggingface.co/datasets/Saugatkafley/alpaca-nepali-sft)
 
 - Fine-tuning Data:
     - Train Split from [Aya Dataset](https://huggingface.co/datasets/CohereForAI/aya_dataset)
-    - Test Split from [Alpaca Cleaned](https://huggingface.co/datasets/Telugu-LLM-Labs/nepali_alpaca_yahma_cleaned_filtered)
+    - Train Split from [Alpaca Cleaned](https://huggingface.co/datasets/Saugatkafley/alpaca-nepali-sft)
+    
 
 # Platform
 - [Unsloth](https://github.com/unslothai/unsloth) packakge for fine-tuning
