@@ -40,8 +40,8 @@ def sample_data(dataset_name, dataset_type, split_ratio, seed, output_dir, lang_
             
         
     dataset_name = dataset_name.split("/")[1]
-    if lang:
-        lang_suffix = lang.lower()
+    if lang_multi:
+        lang_suffix = lang_multi.lower()
         train_split_path = os.path.join(output_dir, f"{dataset_name}_{lang_suffix}_train_split.txt")
         test_split_path = os.path.join(output_dir, f"{dataset_name}_{lang_suffix}_test_split.txt")
     else:
@@ -50,7 +50,7 @@ def sample_data(dataset_name, dataset_type, split_ratio, seed, output_dir, lang_
     save_splits(train_dataset, train_split_path)
     save_splits(test_dataset, test_split_path)
     
-    logging.info(f"Saved indices for dataset: {dataset_name} and language: {lang}")
+    logging.info(f"Saved indices for dataset: {dataset_name} and language: {lang_multi}")
 
 def main():
     datasets = [("CohereForAI/aya_dataset", "aya"), 
