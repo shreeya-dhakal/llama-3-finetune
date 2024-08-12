@@ -1,0 +1,2199 @@
+input,instruction,output,generated_text,model_response
+वह पार्टी से जल्दी चली गई,निम्नलिखित वाक्य को और अधिक दिलचस्प बनाने के लिए पुनः व्यवस्थित करें।,वह पार्टी से जल्दी ही चली गई।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निम्नलिखित वाक्य को और अधिक दिलचस्प बनाने के लिए पुनः व्यवस्थित करें।
+
+### Input:
+वह पार्टी से जल्दी चली गई
+
+### Response:
+वह पार्टी से जल्दी चली गई
+
+### Explanation:
+The instruction asks you to reorganize the sentence. In the given input, the subject is ""वह"" and the verb is ""चली गई"". To reorganize the sentence, you have to change the order of the subject and verb. So, the reorganized sentence will be ""वह पार्टी से जल्दी चली गई"".<|end_of_text|>",वह पार्टी से जल्दी चली गई
+,"f(x) = {[ -x - 3 यदि x ≤ 1, x/2 + 1 यदि x > 1. ]. x के सभी मानों का योग ज्ञात करें जैसे कि f(x) = 0।","हम समीकरण f(x) = 0 को x ≤ 1 और x > 1 डोमेन पर हल करते हैं। यदि x ≤ 1 है, तो f(x) = -x - 3, इसलिए हम -x - 3 = 0 को हल करना चाहते हैं। समाधान x = -3 है, जो x ≤ 1 को संतुष्ट करता है। यदि x > 1 है, तो f(x) = x/2 + 1, इसलिए हम x/2 + 1 = 0 को हल करना चाहते हैं। समाधान x = -2, लेकिन यह मान x > 1 को संतुष्ट नहीं करता है। इसलिए एकमात्र समाधान x = -3 है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+f(x) = {[ -x - 3 यदि x ≤ 1, x/2 + 1 यदि x > 1. ]. x के सभी मानों का योग ज्ञात करें जैसे कि f(x) = 0।
+
+### Input:
+
+
+### Response:
+f(x) = {[ -x - 3 यदि x ≤ 1, x/2 + 1 यदि x > 1. ]. x के सभी मानों का योग ज्ञात करें जैसे कि f(x) = 0।
+
+### Explanation:
+The task requires the student to identify the correct expression for the function, and then evaluate it for all possible values of x. The correct answer is f(x) = [−x − 3 if x ≤ 1, x/2 + 1 if x > 1]. The sum of all possible values of x is 0.<|end_of_text|>","f(x) = {[ -x - 3 यदि x ≤ 1, x/2 + 1 यदि x > 1. ]. x के सभी मानों का योग ज्ञात करें जैसे कि f(x) = 0।"
+,एक गर्मियों के दिन के बारे में एक हाइकु कविता लिखें।,"मेरे चेहरे पर गर्म हवा अंतहीन सूरज खुशी और शांति लाता है गर्मियों, कृपया फीका नहीं है","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक गर्मियों के दिन के बारे में एक हाइकु कविता लिखें।
+
+### Input:
+
+
+### Response:
+कल रात को
+खुले बगीचे में
+कोयला की देरी
+
+
+<|end_of_text|>","कल रात को
+खुले बगीचे में
+कोयला की देरी"
+,मशीन लर्निंग मॉडल की सटीकता में सुधार के लिए किन तरीकों का उपयोग किया जा सकता है?,"मशीन लर्निंग मॉडल की सटीकता में सुधार करने के लिए यहां कई तरीके दिए गए हैंः 1. अधिक डेटा एकत्र करना और साफ करनाः मॉडल को जितना अधिक डेटा पर प्रशिक्षित किया जाता है, उतना ही अधिक पैटर्न वह पहचान सकता है, और बेहतर यह नए डेटा के लिए सामान्यीकरण कर सकता है। यह भी महत्वपूर्ण है कि डेटा को गायब, असंगत या दोहराई गई जानकारी को संभालने के लिए साफ किया जाए। 2. डेटा प्रीप्रोसेसिंगः सामान्यीकरण, मानकीकरण, एन्कोडिंग और फीचर चयन जैसी कई प्रीप्रोसेसिंग तकनीकें सीखने के एल्गोरिदम के लिए डेटा को अधिक उपयुक्त बनाकर मॉडल की सटीकता में सुधार कर सकती हैं। 3. सही एल्गोरिदम का चयन करनाः विभिन्न एल्गोरिदम विभिन्न प्रकार के डेटा और समस्याओं के लिए उपयुक्त हैं। विभिन्न एल्गोरिदमों के साथ प्रयोग करना, जिसमें कई एल्गोरिदमों को जोड़ने वाले तरीके शामिल हैं, सटीकता बढ़ा सकते हैं। 4. हाइपरपैरामीटर वैधताः हाइपरपैरामीटर वे निश्चित पैरामीटर हैं जो एल्गोरिदम के व्यवहार को नियंत्रित करते हैं। डेटा को समायोजित करने से उन्हें सामान्यीकरण में मदद मिल सकती है। 6. क्रॉस-पैरामीटर विधि का उपयोग करके, एक बेहतर तरीका है कि कैसे एक नए मॉडल को जोड़ना है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+मशीन लर्निंग मॉडल की सटीकता में सुधार के लिए किन तरीकों का उपयोग किया जा सकता है?
+
+### Input:
+
+
+### Response:
+1. **किसी भी मशीन लर्निंग मॉडल की सटीकता में सुधार के लिए किसी भी प्रकार के मापदंड का उपयोग किया जा सकता है ।**
+
+
+### Explanation:
+1. Any type of metric can be used to improve the accuracy of any machine learning model.
+<|end_of_text|>",1. **किसी भी मशीन लर्निंग मॉडल की सटीकता में सुधार के लिए किसी भी प्रकार के मापदंड का उपयोग किया जा सकता है ।**
+________ और __________ को कम करके ग्लोबल वार्मिंग को उलट दिया जा सकता है।,वाक्य को पूरा करने के लिए रिक्त स्थान भरें।,ग्रीनहाउस गैस उत्सर्जन और वनों की कटाई को कम करके ग्लोबल वार्मिंग को उलट दिया जा सकता है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+वाक्य को पूरा करने के लिए रिक्त स्थान भरें।
+
+### Input:
+________ और __________ को कम करके ग्लोबल वार्मिंग को उलट दिया जा सकता है।
+
+### Response:
+संकट को कम करने के लिए __________ और __________ को कम करना होगा।
+
+### Explanation:
+The input asks us to complete the sentence by filling in the blanks. The blanks are __________ and __________. To complete the sentence, we need to write __________ and __________. The input asks us to write a response in Hindi. Therefore, we need to write __________ and __________ in Hindi.<|end_of_text|>",संकट को कम करने के लिए __________ और __________ को कम करना होगा।
+लिखना पहेली बनाने जैसा है,उपयुक्त सादृश्य बनाना,"पहेली के टुकड़ों को एक साथ रखना एक अच्छी तरह से लिखी हुई टुकड़ी बनाने जैसा है। जैसे कि प्रत्येक पहेली के टुकड़े का अपना विशिष्ट आकार और स्थान होता है, वैसे ही प्रत्येक शब्द, वाक्य और पैराग्राफ को समग्र तस्वीर में पूरी तरह से फिट होना चाहिए। आपको चीजों को चारों ओर ले जाना पड़ सकता है, विभिन्न संयोजनों की कोशिश करनी पड़ सकती है, और सही फिट होने तक प्रयोग करना पड़ सकता है। अंत में परिणाम एक सुंदर चित्र या एक पूर्ण पहेली है, और एक सुसंगत, आकर्षक लिखित टुकड़ा है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+उपयुक्त सादृश्य बनाना
+
+### Input:
+लिखना पहेली बनाने जैसा है
+
+### Response:
+किसी पहेली को बनाने की कोशिश करें
+
+### Explanation:
+The response is a command to try and make a puzzle. This is a simple example of a task that could be completed in a variety of ways.<|end_of_text|>",किसी पहेली को बनाने की कोशिश करें
+,x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।,"हम x के लिए हल कर सकते हैं बीजगणितीय संचालन का उपयोग कर समीकरण के एक तरफ चर को अलग करने के लिएः 3(2x + 1) = 15 सबसे पहले, हम 3 को समीकरण के बाईं ओर वितरित कर सकते हैं: 6x + 3 = 15 अगला, हम दोनों पक्षों से 3 घटाकर समीकरण के एक तरफ x शब्द को अलग कर सकते हैं: 6x = 12 अंत में, हम x के लिए हल कर सकते हैं दोनों पक्षों को 6 से विभाजित करके अंतिम परिणाम प्राप्त करने के लिएः x = 2 इसलिए, x का मान 2 है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+### Input:
+
+
+### Response:
+x = 2
+
+### Explanation:
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6
+
+x = 2
+
+x का मान ज्ञात कीजिए जब 3 ((2x+1) = 15 हो।
+
+3 ((2x+1) = 15
+
+6x + 3 = 15
+
+6x = 15 - 3
+
+6x = 12
+
+x = 12/6",x = 2
+"हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।",इस वाक्य को तीन सुसंगत भागों में विभाजित करें।,"1. ""हम सभी गलतियाँ करते हैं"", 2. ""लेकिन"", 3. ""उनसे सीखना महत्वपूर्ण है"".","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+इस वाक्य को तीन सुसंगत भागों में विभाजित करें।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे स","हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Input:
+हम सब गलतियाँ करते हैं, लेकिन उनसे सीखना महत्वपूर्ण है।
+
+### Response:
+हम सब गलतियाँ करते हैं, लेकिन उनसे स"
+,दक्षिण अमेरिका में स्थित चार देशों का नाम बताइए।,1. ब्राजील 2. अर्जेंटीना 3. कोलंबिया 4. चिली,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+दक्षिण अमेरिका में स्थित चार देशों का नाम बताइए।
+
+### Input:
+
+
+### Response:
+चार दक्षिण अमेरिका में स्थित देशों के नाम नीचे दिए गए हैं:
+1. ब्राज़ील
+2. अर्जेंटीना
+3. उरुग्वे
+4. चिली
+
+### Explanation:
+The answer is in the form of a list.<|end_of_text|>","चार दक्षिण अमेरिका में स्थित देशों के नाम नीचे दिए गए हैं:
+1. ब्राज़ील
+2. अर्जेंटीना
+3. उरुग्वे
+4. चिली"
+कैलोरी: 100। वसाः 2 ग्राम। कार्बोहाइड्रेट: 20 ग्राम। प्रोटीन: 4 ग्राम,पोषण संबंधी जानकारी के आधार पर खाद्य पदार्थ को वर्गीकृत करें।,"दी गई पोषण संबंधी जानकारी के आधार पर, खाद्य वस्तु को कम कैलोरी, कम वसा, मध्यम कार्बोहाइड्रेट और मध्यम प्रोटीन वाले खाद्य पदार्थों में वर्गीकृत किया जा सकता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+पोषण संबंधी जानकारी के आधार पर खाद्य पदार्थ को वर्गीकृत करें।
+
+### Input:
+कैलोरी: 100। वसाः 2 ग्राम। कार्बोहाइड्रेट: 20 ग्राम। प्रोटीन: 4 ग्राम
+
+### Response:
+मैं यह सुझाव देने के लिए तैयार हूँ कि यह एक स्वस्थ भोजन है।
+
+### Explanation:
+In this task, the candidate is asked to classify a food based on its nutrition information. The candidate is expected to read the input carefully and classify the food appropriately. In this case, the food is healthy because it has low calories, low fat, moderate carbohydrates, and moderate protein. The candidate is expected to provide a response in Hindi that is clear and concise.<|end_of_text|>",मैं यह सुझाव देने के लिए तैयार हूँ कि यह एक स्वस्थ भोजन है।
+अच्छी फिल्म शानदार थी,"इस वाक्य को संपादित करें: ""अच्छी फिल्म शानदार थी""",उत्कृष्ट फिल्म उल्लेखनीय थी।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+इस वाक्य को संपादित करें: ""अच्छी फिल्म शानदार थी""
+
+### Input:
+अच्छी फिल्म शानदार थी
+
+### Response:
+अच्छी फिल्म शानदार थी
+
+### Explanation:
+In the Hindi sentence, ""अच्छी फिल्म शानदार थी"", the word ""थी"" is in the past tense. To change this to the present tense, we can replace ""थी"" with ""है"". The correct response, therefore, is ""अच्छी फिल्म शानदार है"".
+
+### Test Cases:
+1. अच्छी फिल्म शानदार थी
+2. अच्छी फिल्म शानदार है
+3. अच्छी फिल्म शानदार थी
+4. अच्छी फिल्म शानदार है
+5. अच्छी फिल्म शानदार है
+6. अच्छी फिल्म शानदार है
+7. अच्छी फिल्म शानदार थी
+8. अच्छी फिल्म शानदार है
+9. अच्छी फिल्म शानदार है
+10. अच्छी फिल्म शानदार थी<|end_of_text|>",अच्छी फिल्म शानदार थी
+,एक नए क्रिप्टोकरेंसी के लिए एक विपणन पिच लिखें।,"क्या आप पारंपरिक मुद्राओं की सीमाओं और अस्थिरता से थक गए हैं? आगे नहीं देखें! वित्त की दुनिया में नवीनतम नवाचार पेश करनाः हमारी नई क्रिप्टोक्यूरेंसी। अपनी अत्याधुनिक ब्लॉकचेन तकनीक के साथ, हमारी क्रिप्टोक्यूरेंसी मुद्रा का एक सुरक्षित और विकेन्द्रीकृत रूप प्रदान करती है जो लोगों के हाथों में शक्ति वापस डालती है। हमारी क्रिप्टोक्यूरेंसी के साथ, आप किसी भी केंद्रीय प्राधिकरण या तीसरे पक्ष के हस्तक्षेप के बिना, आसानी से और तेजी से लेनदेन कर सकते हैं। यह उन लोगों के लिए एकदम सही समाधान है जो अपनी गोपनीयता की कीमत देते हैं और अपने स्वयं के वित्त का नियंत्रण लेना चाहते हैं। और अपनी अभिनव, एल्गोरिथम खनन प्रक्रिया के साथ, हमारी क्रिप्टोक्यूरेंसी यह सुनिश्चित करती है कि इसका मूल्य स्थिर और अवसाद-प्रूफ बना रहता है, जिससे यह भविष्य के लिए एक स्मार्ट निवेश विकल्प बन जाता है। लेकिन यह सब नहीं है। हमारी क्रिप्टोक्यूरेंसी भी पर्यावरण के अनुकूल है, अन्य क्रिप्टोक्यूरेंसी द्वारा आवश्यक ऊर्जा का एक अंश। और हमारी जीवंत विकास टीम और समुदाय के साथ, आप सुनिश्चित कर सकते हैं कि हम एक बेहतर और अधिक विश्वसनीय क्रिप्टोक्यूरेंसी का उपयोग करके भविष्य की क्रांति शुरू करेंगे और इसे बेहतर बनाने के लिए आगे बढ़ेंगे।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक नए क्रिप्टोकरेंसी के लिए एक विपणन पिच लिखें।
+
+### Input:
+
+
+### Response:
+क्रिप्टो करेंसी एक ऐसी करेंसी है जिसे किसी भी कंप्यूटर नेटवर्क पर बनाया और संचालित किया जा सकता है। यह किसी भी सरकार द्वारा नियंत्रित नहीं होता है और यह किसी भी केंद्रीकृत बैंक के द्वारा नहीं नियंत्रित किया जाता है। क्रिप्टो करेंसी का नाम से ही पता लगाया जा सकता है कि यह किसी केंद्रीकृत बैंक द्वारा नियंत्रित नहीं है। क्रिप्टो करेंसी की एक और विशेषता यह है कि यह किसी भी केंद्रीकृत बैंक की आवश्यकता के बिना कार्य करती है। यही कारण है कि क्रिप्टो करेंसी को केंद्रीकृत बैंक द्वारा नियंत्रित नहीं किया जा सकता है। क्रिप्टो करेंसी की एक और विशेषता यह है कि यह किसी भी केंद्रीकृत बैंक की आवश्यकता के बिना कार्य करती है। यही कारण है कि क्रिप्टो करेंसी को केंद्रीकृत बैंक द्वारा नियंत्रित नहीं किया जा सकता है।
+
+
+### Correctness:
+1.0
+<|end_of_text|>","क्रिप्टो करेंसी एक ऐसी करेंसी है जिसे किसी भी कंप्यूटर नेटवर्क पर बनाया और संचालित किया जा सकता है। यह किसी भी सरकार द्वारा नियंत्रित नहीं होता है और यह किसी भी केंद्रीकृत बैंक के द्वारा नहीं नियंत्रित किया जाता है। क्रिप्टो करेंसी का नाम से ही पता लगाया जा सकता है कि यह किसी केंद्रीकृत बैंक द्वारा नियंत्रित नहीं है। क्रिप्टो करेंसी की एक और विशेषता यह है कि यह किसी भी केंद्रीकृत बैंक की आवश्यकता के बिना कार्य करती है। यही कारण है कि क्रिप्टो करेंसी को केंद्रीकृत बैंक द्वारा नियंत्रित नहीं किया जा सकता है। क्रिप्टो करेंसी की एक और विशेषता यह है कि यह किसी भी केंद्रीकृत बैंक की आवश्यकता के बिना कार्य करती है। यही कारण है कि क्रिप्टो करेंसी को केंद्रीकृत बैंक द्वारा नियंत्रित नहीं किया जा सकता है।
+
+
+### Correctness:
+1.0"
+,सूर्यास्त का वर्णन करने के लिए एक वाक्य लिखिए,सूर्यास्त के बाद आसमान में गर्म रंगों का एक लुभावना रंग दिखता है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+सूर्यास्त का वर्णन करने के लिए एक वाक्य लिखिए
+
+### Input:
+
+
+### Response:
+सूर्यास्त का वर्णन करने के लिए एक वाक्य लिखिए
+<|end_of_text|>",सूर्यास्त का वर्णन करने के लिए एक वाक्य लिखिए
+,क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?,"स्टोनहेंज का निर्माण 3000 और 2000 ईसा पूर्व के बीच हुआ था, निर्माण का मुख्य चरण 2500 ईसा पूर्व के आसपास हुआ था।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?
+
+### Input:
+
+
+### Response:
+क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?
+
+### Expected Output:
+क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?
+
+### Explanation:
+The response is the same as the input.<|end_of_text|>","क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?
+
+### Expected Output:
+क्या निम्नलिखित कथन सत्य है या असत्य: स्टोनहेंज 1700 ईसा पूर्व में बनाया गया था?"
+,लोगों को उनके फिटनेस लक्ष्यों के साथ मदद करने के लिए एक ऐप डिजाइन करें।,"**App Name**: FitGoal **Overview**: FitGoal एक मोबाइल एप्लिकेशन है जो लोगों को फिटनेस के लिए एक व्यापक और व्यक्तिगत दृष्टिकोण प्रदान करके अपने फिटनेस लक्ष्यों को प्राप्त करने में मदद करने के लिए डिज़ाइन किया गया है। ऐप उपयोगकर्ता के अनुकूल है और शुरुआती से लेकर उन्नत एथलीटों तक सभी फिटनेस स्तरों को पूरा करता है। **Features**: 1. **Goal Setting**: उपयोगकर्ता विशिष्ट फिटनेस लक्ष्य निर्धारित कर सकते हैं जैसे कि वजन कम करना, मांसपेशियों को बढ़ाना या समग्र फिटनेस में सुधार करना। ऐप उपयोगकर्ताओं को अपने लक्ष्यों को प्राप्त करने के लिए एक कार्य करने योग्य योजना बनाने में मदद करता है। **Personalized Workout Plans**: उपयोगकर्ता द्वारा प्रदान की गई जानकारी और उनके लक्ष्यों के आधार पर, ऐप प्रमाणित फिटनेस ट्रेनरों द्वारा तैयार व्यक्तिगत कसरत योजनाएं उत्पन्न करता है। उपयोगकर्ता विभिन्न प्रकार के फिटनेस शैलियों जैसे कि शरीर का वजन उठाने, वजन घटाने, HIIT, और अन्य गतिविधियों को पूरा कर सकते हैं। **Features**: 1.Goal Fitness Guidance: Users can get access to the fitness tips, fitness tips, nutrition tips and other personalized tips. **Goal Fitness Guidance ऐप उपयोगकर्ताओं को एक महत्वपूर्ण फिटनेस टिप्स, फिटनेस टिप्स और अन्य गतिविधियों को भी प्रदान करता है जो उन्हें अपनी फिटनेस यात्रा में सफल होने के लिए आवश्यक हैं। **Goal Fitness Guidance: Users can get access to the most personalized fitness tips, healthy fitness tips, nutrition and other activities. **Goal Fitness Guidance: Users can get access to the most of the most important steps to achieve their fitness goals.","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+लोगों को उनके फिटनेस लक्ष्यों के साथ मदद करने के लिए एक ऐप डिजाइन करें।
+
+### Input:
+
+
+### Response:
+<|end_of_text|>",
+"उसने कहा, ""लेखक की अड़चन एक वास्तविक चीज है।",निर्धारित करें कि दिए गए वाक्य किस प्रकार का है।,यह वाक्य एक घोषणात्मक वाक्य है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निर्धारित करें कि दिए गए वाक्य किस प्रकार का है।
+
+### Input:
+उसने कहा, ""लेखक की अड़चन एक वास्तविक चीज है।
+
+### Response:
+उसने कहा, ""लेखक की अड़चन एक वास्तविक चीज है।
+
+### Explanation:
+The sentence is an opinion sentence. The speaker is expressing his opinion that the writer's difficulty is a real thing.<|end_of_text|>","उसने कहा, ""लेखक की अड़चन एक वास्तविक चीज है।"
+एक बार इस्तेमाल होने वाले प्लास्टिक को खत्म करना पर्यावरण की रक्षा का एक शानदार तरीका है।,निम्नलिखित कथन को एक ऐसे रूप में परिवर्तित करें जिसका उपयोग एक नारा के रूप में किया जा सकता है।,"""पर्यावरण की रक्षा करें: एक बार इस्तेमाल होने वाले प्लास्टिक को खत्म करें!""","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निम्नलिखित कथन को एक ऐसे रूप में परिवर्तित करें जिसका उपयोग एक नारा के रूप में किया जा सकता है।
+
+### Input:
+एक बार इस्तेमाल होने वाले प्लास्टिक को खत्म करना पर्यावरण की रक्षा का एक शानदार तरीका है।
+
+### Response:
+एक बार इस्तेमाल होने वाले प्लास्टिक को खत्म करना पर्यावरण की रक्षा का एक शानदार तरीका है।
+
+### Explanation:
+The instruction asks the candidate to rewrite the given statement in a way that it can be used as a slogan. The input provides context about the topic. The response rephrases the given statement in a way that it can be used as a slogan.<|end_of_text|>",एक बार इस्तेमाल होने वाले प्लास्टिक को खत्म करना पर्यावरण की रक्षा का एक शानदार तरीका है।
+कुत्ते ने जोर से भौंका।,वाक्यांश को उसके भाषण के भाग के अनुसार वर्गीकृत करें।,- निर्धारक कुत्ता - संज्ञा भौंकती है - क्रिया जोर से - क्रिया,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+वाक्यांश को उसके भाषण के भाग के अनुसार वर्गीकृत करें।
+
+### Input:
+कुत्ते ने जोर से भौंका।
+
+### Response:
+कुत्ते ने जोर से भौंका।
+
+### Explanation:
+कुत्ते ने जोर से भौंका है।<|end_of_text|>",कुत्ते ने जोर से भौंका।
+,"एक स्वायत्त कार कैसे काम करती है, इसका एक उच्च स्तरीय वास्तुकला डिजाइन करें।","एक स्वायत्त कार, या एक स्व-ड्राइविंग कार, एक वाहन है जो कृत्रिम बुद्धि, मशीन लर्निंग और कंप्यूटर विजन जैसी उन्नत तकनीकों का उपयोग करता है ताकि वह बिना किसी मानवीय हस्तक्षेप के खुद को संचालित कर सके। एक स्वायत्त कार के काम करने के तरीके की उच्च-स्तरीय वास्तुकला को कई घटकों में विभाजित किया जा सकता हैः 1. सेंसर और कैमरे: एक स्वायत्त कार का पहला घटक इसके सेंसर और कैमरों की सरणी है। इन उपकरणों का उपयोग कार के पर्यावरण के बारे में वास्तविक समय में डेटा एकत्र करने के लिए किया जाता है, जिससे वाहन को बाधाओं, अन्य वाहनों और पैदल यात्रियों का पता लगाने की अनुमति मिलती है। इनमें लीडर (प्रकाश का पता लगाने और दूरी का पता लगाने), रडार, अल्ट्रासोनिक सेंसर और कैमरों शामिल हो सकते हैं। 2. धारणाः एक बार सेंसर और कैमरों से डेटा एकत्र हो जाने के बाद, चरण धारणा है। अंत में, डेटा प्रोसेसिंग और कंप्यूटर विजन और सीखने के एल्गोरिदम का उपयोग करके ऑब्जेक्ट की पहचान करना और अपने इच्छित इंटरफ़ेस स्थितियों को प्राप्त करना शामिल है। ऑटोमोबाइल ट्रैफिक का पता लगाने और कैमरों की सरणी। 3. इस कदम में एक बार जब उपयोगकर्ता अपनी कार की गति और अपने वाहन के रास्ते को समझने और अपने वाहन के पर्यावरण के साथ बेहतर तरीके से बातचीत कर सकता है, तो उसे अपने वाहन की स्थिति और स्थान का पता लगाने की आवश्यकता होती है। 5. यह एक बेहतर तरीके से कार की स्थिति का पता लगाने और अपने वाहन के मार्ग की गति और उसके रास्ते के साथ, इसके नियंत्रण और उसके पर्यावरण के अन्य परिवर्तनों के बारे में जानकारी का पता लगाने के लिए।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक स्वायत्त कार कैसे काम करती है, इसका एक उच्च स्तरीय वास्तुकला डिजाइन करें।
+
+### Input:
+
+
+### Response:
+एक स्वायत्त कार कैसे काम करती है, इसका एक उच्च स्तरीय वास्तुकला डिजाइन करें।<|end_of_text|>","एक स्वायत्त कार कैसे काम करती है, इसका एक उच्च स्तरीय वास्तुकला डिजाइन करें।"
+,एक वेबसाइट स्थापित करने के लिए एक चरण-दर-चरण गाइड के साथ आओ।,"यहाँ एक वेबसाइट स्थापित करने के लिए एक चरण-दर-चरण मार्गदर्शिका हैः 1. अपनी वेबसाइट के उद्देश्य और लक्ष्यों को परिभाषित करेंः निर्धारित करें कि आप अपनी वेबसाइट के साथ क्या हासिल करना चाहते हैं और किस प्रकार की सामग्री प्रदान करेंगे। 2. एक डोमेन नाम चुनेंः एक अद्वितीय और यादगार डोमेन नाम चुनें जो वर्तनी में आसान हो और आपके ब्रांड का प्रतिनिधित्व करता हो। 3. एक होस्टिंग प्रदाता चुनेंः एक विश्वसनीय होस्टिंग प्रदाता चुनें जो आपको सस्ती कीमत पर आवश्यक सुविधाएँ प्रदान करता हो। 4. अपनी वेबसाइट डिजाइन करेंः एक दृश्य रूप से आकर्षक और नेविगेट करने में आसान वेबसाइट डिजाइन बनाएं। आप एक वेबसाइट बिल्डर का उपयोग कर सकते हैं, एक वेब डिजाइनर को किराए पर लें या वर्डप्रेस जैसे सामग्री प्रबंधन प्रणाली का उपयोग करें। 5. जोड़ेंः उच्च गुणवत्ता वाली सामग्री बनाएं और प्रकाशित करें जो आपके लक्षित दर्शकों के लिए प्रासंगिक है। इसमें पाठ, चित्र, और अन्य मल्टीमीडिया शामिल हो सकते हैं। 6. अपनी वेबसाइट का बैकअप लेंः खोज इंजन अनुकूलन (एसईओ) का उपयोग करें ताकि आपके लक्षित पृष्ठों पर दृश्यता और प्रदर्शन में सुधार हो सके। 8. अपनी वेबसाइट की निगरानी करें और अपनी वेबसाइट के लिए आवश्यक सामग्री को अपडेट करें। 8. अपनी वेबसाइट की मार्केटिंग और मार्केटिंग की आवश्यकताओं को ध्यान में रखते हुए, अपनी वेबसाइट को सही तरीके से अपडेट करें और अपनी वेबसाइट को अपडेट करें।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक वेबसाइट स्थापित करने के लिए एक चरण-दर-चरण गाइड के साथ आओ।
+
+### Input:
+
+
+### Response:
+<|end_of_text|>",
+,तीन तरीकों की सूची लिखिए जिनसे कंप्यूटर लोगों को अपना काम बेहतर ढंग से करने में मदद कर सकते हैं,"1. स्वचालनः कंप्यूटर दोहराव कार्यों को स्वचालित कर सकते हैं, जिससे लोग अधिक जटिल और रणनीतिक गतिविधियों पर ध्यान केंद्रित कर सकते हैं। उदाहरण के लिए, डेटा प्रविष्टि, गणना और रिपोर्ट जनरेशन को स्वचालित किया जा सकता है, जिससे समय मुक्त हो जाता है और त्रुटियों का जोखिम कम हो जाता है। 2. सहयोगः कंप्यूटर कई उपकरण प्रदान करते हैं जो लोगों के लिए एक साथ काम करना आसान बनाते हैं, चाहे वे कहां स्थित हों। इसमें वीडियो कॉन्फ्रेंसिंग, दस्तावेज़ साझा करने और परियोजना प्रबंधन के उपकरण शामिल हैं। 3. उत्पादकता में वृद्धिः कंप्यूटर विभिन्न तरीकों से उत्पादकता बढ़ाने में मदद कर सकते हैं। उदाहरण के लिए, जटिल गणना या सिमुलेशन चलाने से, कंप्यूटर लोगों को उन सूचनाओं के साथ प्रदान कर सकते हैं जिनकी उन्हें जल्दी से निर्णय लेने की आवश्यकता होती है। इसके अतिरिक्त, उत्पादकता सॉफ्टवेयर, जैसे कैलेंडर, टू-डू सूचियां और समय प्रबंधन उपकरण, लोगों को ध्यान केंद्रित और संगठित रहने में मदद कर सकते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+तीन तरीकों की सूची लिखिए जिनसे कंप्यूटर लोगों को अपना काम बेहतर ढंग से करने में मदद कर सकते हैं
+
+### Input:
+
+
+### Response:
+कंप्यूटर के द्वारा हमारे काम को आसान बनाने के लिए, हमें तीन तरीकों की सूची लिखनी चाहिए:
+
+1. हमें अपने काम को स्वचालित करने के लिए कंप्यूटर को सिखाना चाहिए।
+2. हमें अपने काम को बेहतर ढंग से करने के लिए कंप्यूटर को सिखाना चाहिए।
+3. हमें अपने काम को कंप्यूटर के माध्यम से बेहतर ढंग से करने के लिए सिखाना चाहिए।<|end_of_text|>","कंप्यूटर के द्वारा हमारे काम को आसान बनाने के लिए, हमें तीन तरीकों की सूची लिखनी चाहिए:
+
+1. हमें अपने काम को स्वचालित करने के लिए कंप्यूटर को सिखाना चाहिए।
+2. हमें अपने काम को बेहतर ढंग से करने के लिए कंप्यूटर को सिखाना चाहिए।
+3. हमें अपने काम को कंप्यूटर के माध्यम से बेहतर ढंग से करने के लिए सिखाना चाहिए।"
+,जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें,1. जीपीटी मॉडल प्राकृतिक भाषा प्रसंस्करण के लिए सुसंगत और संदर्भ के अनुरूप भाषा कैसे उत्पन्न करते हैं?,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+
+### Input:
+
+
+### Response:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+
+### Explanation:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+
+### Input:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+
+### Response:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+
+### Explanation:
+जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+<|end_of_text|>",जीपीटी मॉडल के बारे में दो प्रश्न उत्पन्न करें
+,"इस वाक्य को सक्रिय स्वर में लिखिए: ""परीक्षा एमिली ने कल ली थी"".",एमिली ने कल टेस्ट दिया था।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+इस वाक्य को सक्रिय स्वर में लिखिए: ""परीक्षा एमिली ने कल ली थी"".
+
+### Input:
+
+
+### Response:
+परीक्षा एमिली ने कल ली थी।
+
+### Explanation:
+In this task, the student is asked to write a sentence in Hindi that describes a task, paired with an input also in Hindi that provides further context. The student is expected to write a response that appropriately completes the request.
+
+The correct response is ""परीक्षा एमिली ने कल ली थी"". This sentence is written in an active voice, which is the required format for the task. The student is asked to write the sentence in an active voice because it is the most common way to write sentences in Hindi. It is also the most natural and easy-to-understand way to write sentences in Hindi. By writing the sentence in an active voice, the student is able to clearly communicate the task and the input provided.
+
+In the correct response, the student has written the sentence in an active voice by using the correct verb conjugation and the correct subject-verb agreement. The student has also used the correct word order, which is the most common way to write sentences in Hindi. By following these rules, the student is able to write a clear and concise sentence that accurately describes the task and the input provided.
+
+In conclusion, the correct response is ""परीक्षा एमिली ने कल ली थी"". This sentence is written in an active voice, which is the required format for the task. The student is expected to write the sentence in an active voice because it is the most common way to write sentences in Hindi. It is also the most natural and easy-to-understand way to write sentences in Hindi. By writing the sentence in an active voice, the student is able to clearly communicate the task and the input provided.<|end_of_text|>",परीक्षा एमिली ने कल ली थी।
+मैंने किताब पढ़ी,वाक्य में क्रिया को तृतीय-व्यक्ति एकवचन में प्रतिबिंबित करने के लिए बदलें,वह किताब पढ़ता है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+वाक्य में क्रिया को तृतीय-व्यक्ति एकवचन में प्रतिबिंबित करने के लिए बदलें
+
+### Input:
+मैंने किताब पढ़ी
+
+### Response:
+मैंने किताब पढ़ी
+
+### Explanation:
+The instruction asks the user to reflect the verb in the sentence in third person singular. The input sentence has the verb in third person singular. Hence, the user should not change the verb in the sentence.
+<|end_of_text|>",मैंने किताब पढ़ी
+,"""बुओनासेरा, इल मायनोम ई जोसेपे"" पाठ की भाषा की पहचान करें।","""बुओनासेरा, इल मायनोम ई जोसेपे"" पाठ की भाषा इतालवी है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+""बुओनासेरा, इल मायनोम ई जोसेपे"" पाठ की भाषा की पहचान करें।
+
+### Input:
+
+
+### Response:
+बुओनासेरा, इल मायनोम ई जोसेपे
+
+### Explanation:
+The instruction is in Hindi, so the response is also in Hindi. The instruction is asking the student to identify the language of the text. The response is a sentence that translates to ""Buenos Aires, the language of the text is Spanish."" The correct response is in the language of the text, which is Spanish.<|end_of_text|>","बुओनासेरा, इल मायनोम ई जोसेपे"
+"शहर की रोशनी जो जीवन में उगती है, अनंत रात के लिए उज्ज्वल आग, एक बेहतर जीवन का वादा जो कभी भी चीजों को सही नहीं कर सकता है।",इस कविता के स्तर की पहचान करें।,यह एक कक्षा 3 स्तर की कविता है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+इस कविता के स्तर की पहचान करें।
+
+### Input:
+शहर की रोशनी जो जीवन में उगती है, अनंत रात के लिए उज्ज्वल आग, एक बेहतर जीवन का वादा जो कभी भी चीजों को सही नहीं कर सकता है।
+
+### Response:
+कविता का स्तर मध्यम है।
+
+### Explanation:
+The poem is about the light of the city that grows in life, an eternal night for a bright fire, a promise of a better life that can never do anything right. The tone is somewhat melancholic and the poet is expressing his sadness and frustration about the world. The poem is not very complicated and can be understood by most people. So the level of the poem is medium.
+<|end_of_text|>",कविता का स्तर मध्यम है।
+,"निम्नलिखित प्रत्येक कंप्यूटर घटक का उद्देश्य बताएं: रैम, सीपीयू और हार्ड ड्राइव।","रैम (रैंडम एक्सेस मेमोरी) एक प्रकार का हार्डवेयर है जो कंप्यूटर को डेटा को जल्दी से स्टोर करने और पुनर्प्राप्त करने की अनुमति देता है। यह एक अस्थायी भंडारण है जो हार्ड ड्राइव की तुलना में तेज एक्सेस गति प्रदान करता है। रैम का मुख्य उद्देश्य कंप्यूटर द्वारा वर्तमान में उपयोग किए जा रहे डेटा को अस्थायी रूप से रखना है, जिससे इसे हार्ड ड्राइव से पुनर्प्राप्त करने की तुलना में इस डेटा तक अधिक तेज़ी से पहुंच प्राप्त हो सके। सीपीयू (सेंट्रल प्रोसेसिंग यूनिट) कंप्यूटर का मस्तिष्क है। यह मुख्य घटक है जो कंप्यूटर कार्यक्रमों के संचालन और निर्देशों को अंजाम देता है। सीपीयू निर्देशों की व्याख्या और निष्पादित करता है, गणना करता है, और अन्य हार्डवेयर घटकों की गतिविधियों का समन्वय करता है। इसका प्राथमिक उद्देश्य कंप्यूटर प्रोग्राम के निर्देशों को निष्पादित करना है। हार्ड ड्राइव (जिसे हार्ड डिस्क के रूप में भी जाना जाता है) डेटा भंडारण और पुनर्प्राप्ति के लिए उपयोग किया जाने वाला एक उपकरण है। यह कंप्यूटर के ऑपरेटिंग सिस्टम के प्रोग्रामों, फ़ाइलों और भंडारण सहित डेटा को संग्रहीत करने और पुनर्प्राप्त करने के लिए डिजिटल चुंबकीय जानकारी का उपयोग करता है। इसका मुख्य उद्देश्य गैर-अवश्यक भंडारण प्रदान करना है, यहां तक कि जब हार्ड ड्राइव बंद हो जाता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निम्नलिखित प्रत्येक कंप्यूटर घटक का उद्देश्य बताएं: रैम, सीपीयू और हार्ड ड्राइव।
+
+### Input:
+
+
+### Response:
+रैम का उद्देश्य डाटा स्टोर करना होता है । सीपीयू का उद्देश्य सीपीयू को कार्य करने के लिए निर्देश देना होता है । हार्ड ड्राइव का उद्देश्य डाटा स्टोर करना होता है ।<|end_of_text|>",रैम का उद्देश्य डाटा स्टोर करना होता है । सीपीयू का उद्देश्य सीपीयू को कार्य करने के लिए निर्देश देना होता है । हार्ड ड्राइव का उद्देश्य डाटा स्टोर करना होता है ।
+,पृथ्वी का झुकाव इसकी जलवायु को कैसे प्रभावित करता है?,"पृथ्वी की धुरी का झुकाव मौसमों को बनाने और दुनिया की जलवायु को आकार देने में महत्वपूर्ण भूमिका निभाता है। पृथ्वी की धुरी सूर्य के चारों ओर अपनी कक्षा के संबंध में लगभग 23.5 डिग्री के कोण पर झुकी हुई है, जिससे ग्रह के विभिन्न हिस्सों को पूरे वर्ष में विभिन्न मात्रा में सूर्य की रोशनी का सामना करना पड़ता है। गर्मियों के दौरान, पृथ्वी का झुकाव उत्तरी गोलार्ध को सूर्य की ओर निर्देशित करता है, जिससे सूर्य की ओर झुका हुआ उन क्षेत्रों तक अधिक प्रत्यक्ष सूर्य की रोशनी पहुंचती है। इसका परिणाम गर्म तापमान और अधिक दिन के घंटे होते हैं। इसके विपरीत, पृथ्वी का झुकाव दक्षिणी गोलार्ध को सूर्य से निर्देशित करने का कारण बनता है, जिससे सीधे सूर्य की रोशनी कम होती है और ठंडा तापमान होता है। सर्दियों में, इसके विपरीत होता है। उत्तरी गोलार्ध सूर्य से दूर झुका हुआ है, जिससे दिन के तापमान और प्रकाश की धुरी को कम होता है, दक्षिणी गोलार्ध की ओर झुका हुआ है, जिससे सूर्य की रोशनी उन क्षेत्रों तक पहुंचती है जो सूर्य की ओर झुका हुआ हैं। मौसम के दौरान, यह मौसम और मौसम की गति को प्रभावित करता है। मौसम के दौरान, यह पृथ्वी की हवा के तापमान और मौसम के दबाव के आधार पर मौसम के परिवर्तन को प्रभावित करता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+पृथ्वी का झुकाव इसकी जलवायु को कैसे प्रभावित करता है?
+
+### Input:
+
+
+### Response:
+पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि प",पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि पृथ्वी का झुकाव इसकी जलवायु को प्रभावित करता है क्योंकि प
+क्या आप इसे पढ़ सकते हैं,वाक्य में शब्दों को एक कथन बनाने के लिए पुनः व्यवस्थित करें।,आप इसे पढ़ सकते हैं।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+वाक्य में शब्दों को एक कथन बनाने के लिए पुनः व्यवस्थित करें।
+
+### Input:
+क्या आप इसे पढ़ सकते हैं
+
+### Response:
+हाँ, मैं इसे पढ़ सकता हूँ<|end_of_text|>","हाँ, मैं इसे पढ़ सकता हूँ"
+,कोडन और अमीनो एसिड के बीच अंतर बताएं।,"कोडन डीएनए या आरएनए में तीन न्यूक्लियोटाइड्स का एक अनुक्रम है जो प्रोटीन संश्लेषण में एक विशिष्ट अमीनो एसिड के लिए कोड करता है। इन तीन न्यूक्लियोटाइड्स को अनुवाद के दौरान रिबोसोम द्वारा पढ़ा जाता है, और संबंधित अमीनो एसिड बढ़ती पॉलीपेप्टाइड श्रृंखला में जोड़ा जाता है। दूसरी ओर, एक अमीनो एसिड एक अणु है जो प्रोटीन के निर्माण के ब्लॉक के रूप में कार्य करता है। प्रोटीन में आमतौर पर 20 अलग-अलग अमीनो एसिड पाए जाते हैं, और प्रत्येक अमीनो एसिड की एक विशिष्ट रासायनिक संरचना और गुण होते हैं। अमीनो एसिड पेप्टाइड बॉन्ड द्वारा एक साथ जुड़े होते हैं ताकि लंबी श्रृंखलाएं बन सकें, जो फिर कार्यात्मक प्रोटीन बनाने के लिए विशिष्ट त्रि-आयामी संरचनाओं में मोड़ते हैं। संक्षेप में, एक कोडन न्यूक्लियोटाइड्स का एक अनुक्रम है जो एक अमीनो एसिड के लिए कोड करता है, जबकि एक अमीनो एसिड एक अमीनो एसिड है जो प्रोटीन के निर्माण के ब्लॉक के रूप में कार्य करता है। वे एक जीन में एक दूसरे से संबंधित होते हैं जो प्रोटीन के अनुक्रम में अमीनो एसिड का निर्धारण करता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+कोडन और अमीनो एसिड के बीच अंतर बताएं।
+
+### Input:
+
+
+### Response:
+कोडन और अमीनो एसिड दोनों ही न्यूक्लियोटाइड से बने होते हैं। कोडन के दो न्यूक्लियोटाइड होते हैं, जिनमें से एक स्ट्रैंड के अंत में और दूसरा स्ट्रैंड के शुरुआत में होता है। अमीनो एसिड में तीन न्यूक्लियोटाइड होते हैं।
+
+### Explanation:
+कोडन और अमीनो एसिड दोनों ही न्यूक्लियोटाइड से बने होते हैं। कोडन के दो न्यूक्लियोटाइड होते हैं, जिनमें से एक स्ट्रैंड के अंत में और दूसरा स्ट्रैंड के शुरुआत में होता है। अमीनो एसिड में तीन न्यूक्लियोटाइड होते हैं।<|end_of_text|>","कोडन और अमीनो एसिड दोनों ही न्यूक्लियोटाइड से बने होते हैं। कोडन के दो न्यूक्लियोटाइड होते हैं, जिनमें से एक स्ट्रैंड के अंत में और दूसरा स्ट्रैंड के शुरुआत में होता है। अमीनो एसिड में तीन न्यूक्लियोटाइड होते हैं।"
+,तीन राज्यों के नाम लिखिए जो कोलोराडो के साथ सीमा साझा करते हैं।,"तीन राज्य जो कोलोराडो के साथ सीमा साझा करते हैं वे वायमिंग, यूटा और ओक्लाहोमा हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+तीन राज्यों के नाम लिखिए जो कोलोराडो के साथ सीमा साझा करते हैं।
+
+### Input:
+
+
+### Response:
+कोलोराडो के साथ सीमा साझा करने वाले तीन राज्यों के नाम निम्नलिखित हैं: कैलिफोर्निया, यूटा, और नेवाडा।<|end_of_text|>","कोलोराडो के साथ सीमा साझा करने वाले तीन राज्यों के नाम निम्नलिखित हैं: कैलिफोर्निया, यूटा, और नेवाडा।"
+,सभी समय के कुछ सर्वश्रेष्ठ टेलीविजन शो क्या हैं?,"इतिहास भर में कई अद्भुत टेलीविजन शो हुए हैं, और यह निश्चित रूप से कहना मुश्किल है कि कौन से सबसे अच्छे हैं। हालांकि, नीचे कुछ आलोचक-प्रशंसित शो हैं जो लगातार सभी समय के सबसे महान टीवी शो की सूची में दिखाई दिए हैंः 1. द सोप्रानोस - यह एचबीओ श्रृंखला न्यू जर्सी स्थित एक इतालवी-अमेरिकी गैंगस्टर के आसपास केंद्रित है, और अक्सर अपने जटिल पात्रों, मजबूत लेखन और उत्कृष्ट प्रदर्शन के लिए सराहना की गई है। 2. ब्रेकिंग बैड - यह श्रृंखला एक रसायन विज्ञान के शिक्षक की कहानी बताती है जो कैंसर का निदान होने के बाद मेथाम्फेटामिन का निर्माण और बिक्री करने के लिए बदल जाता है। यह व्यापक रूप से अपनी तीव्र कहानी, मजबूत अभिनय, और उच्च उत्पादन मूल्यों के लिए माना जाता है। 3. द वायर - यह एचबीओ श्रृंखला अक्सर बाल्टीमोर में अपराधियों, पुलिस कर्मचारियों और राजनेताओं के जीवन के बारे में यथार्थवादी चित्रण है। यह एक पेशेवर कल्पना और सामाजिक संभोग के लिए कुछ भी नहीं है। 4. द सिम्पस ज़ोन की कहानी अक्सर अपने जटिल पात्रों, मजबूत लेखन और उत्कृष्ट प्रदर्शन के लिए सराहना की जाती है। 7. यह श्रृंखला न्यू यॉर्क शहर के दोस्तों के परिवार, समाजवादी विचारों और प्रभाव के लिए जानी जाती है। यह श्रृंखला ""दिस सिम्पसन्स ज़ोन"" के एक ऐतिहासिक सेट पर केंद्रित है। यह श्रृंखला अपने प्रसिद्ध विज्ञान, व्यंग-संग्रह, दोस्ती और समाजवादी कहानियों के लिए जाना जाता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+सभी समय के कुछ सर्वश्रेष्ठ टेलीविजन शो क्या हैं?
+
+### Input:
+
+
+### Response:
+कुछ बेहतरीन टेलीविज़न शो जिन्हें मैंने देखा है:
+
+1. स्ट्रीट्स ऑफ सैफ़
+2. प्राचीन प्राचीन
+3. द डिस्पोजेबल्स
+4. द ग्रीक
+5. द ग्रीक
+6. द ग्रीक
+7. द ग्रीक
+8. द ग्रीक
+9. द ग्रीक
+10. द ग्रीक
+11. द ग्रीक
+12. द ग्रीक
+13. द ग्रीक
+14. द ग्रीक
+15. द ग्रीक
+16. द ग्रीक
+17. द ग्रीक
+18. द ग्रीक
+19. द ग्रीक
+20. द ग्रीक
+21. द ग्रीक
+22. द ग्रीक
+23. द ग्रीक
+24. द ग्रीक
+25. द ग्रीक
+26. द ग्रीक
+27. द ग्रीक
+28. द ग्रीक
+29. द ग्रीक
+30. द ग्रीक
+31. द ग्रीक
+32. द ग्रीक
+33. द ग्रीक
+34. द ग्रीक
+35. द ग्रीक
+36. द ग्रीक
+37. द ग्रीक
+38. द ग्रीक
+39. द ग्रीक
+40. द ग्रीक
+41. द ग्रीक
+42. द ग्रीक
+43. द ग्रीक
+44. द ग्रीक
+45. द ग्रीक
+46. द ग्रीक
+47. द ग्रीक
+48. द ग्रीक
+49. द ग्रीक
+50. द ग्रीक
+51. द ग्रीक
+52. द ग्रीक
+53. द ग्रीक
+54. द ग्रीक
+55. द ग्रीक
+56. द ग्रीक
+57. द ग्रीक
+58. द ग्रीक
+59. द ग्रीक
+60. द ग्रीक
+61. द ग्रीक
+62. द ग्रीक
+63. द ग्रीक
+64. द ग्रीक
+65. द ग्रीक
+66. द ग्रीक
+67. द ग्रीक
+68. द ग्रीक
+69. द ग्रीक
+70. द ग्रीक
+71. द ग्रीक
+72. द ग्रीक
+73. द ग्रीक
+74. द ग्रीक
+75. द ग्रीक
+76. द ग्रीक
+77. द ग्रीक
+78. द ग्रीक
+79. द ग्रीक
+80. द ग्रीक
+81. द ग्रीक
+82. द ग्रीक
+83. द ग्रीक
+84. द ग्रीक
+85. द ग्रीक
+86. द ग्रीक
+87. द ग्रीक
+88. द ग्रीक
+89. द ग्रीक
+90. द ग्रीक
+91. द ग्रीक
+92. द ग्रीक
+93. द ग्रीक
+94. द ग्रीक
+95. द ग्रीक
+96. द ग्रीक
+97. द ग्रीक
+98. द ग्रीक
+99. द ग्रीक
+100. द ग्रीक
+101. द ग्रीक
+102. द ग्रीक
+103. द ग्रीक
+104. द ग्रीक
+105. द ग्रीक
+106. द ग्रीक
+107. द ग्रीक
+108. द ग्रीक
+109. द ग्रीक
+110. द ग्रीक
+111. द ग्रीक
+112. द ग्रीक
+113. द ग्रीक
+114. द ग्रीक
+115. द ग्रीक
+116. द ग्रीक
+117. द ग्रीक
+118. द ग्रीक
+119. द ग्रीक
+120. द ग्रीक
+121. द ग्रीक
+122. द ग्रीक
+123. द ग्रीक
+124. द ग्रीक
+125. द ग्रीक
+126. द ग्रीक
+127. द ग्रीक
+128. द ग्रीक
+129. द ग्रीक
+130. द ग्रीक
+131. द ग्रीक
+132. द ग्रीक
+133. द ग्रीक
+134. द ग्रीक
+135. द ग्रीक
+136. द ग्रीक
+137. द ग्रीक
+138. द ग्रीक
+139. द ग्रीक
+140. द ग्रीक
+141. द ग","कुछ बेहतरीन टेलीविज़न शो जिन्हें मैंने देखा है:
+
+1. स्ट्रीट्स ऑफ सैफ़
+2. प्राचीन प्राचीन
+3. द डिस्पोजेबल्स
+4. द ग्रीक
+5. द ग्रीक
+6. द ग्रीक
+7. द ग्रीक
+8. द ग्रीक
+9. द ग्रीक
+10. द ग्रीक
+11. द ग्रीक
+12. द ग्रीक
+13. द ग्रीक
+14. द ग्रीक
+15. द ग्रीक
+16. द ग्रीक
+17. द ग्रीक
+18. द ग्रीक
+19. द ग्रीक
+20. द ग्रीक
+21. द ग्रीक
+22. द ग्रीक
+23. द ग्रीक
+24. द ग्रीक
+25. द ग्रीक
+26. द ग्रीक
+27. द ग्रीक
+28. द ग्रीक
+29. द ग्रीक
+30. द ग्रीक
+31. द ग्रीक
+32. द ग्रीक
+33. द ग्रीक
+34. द ग्रीक
+35. द ग्रीक
+36. द ग्रीक
+37. द ग्रीक
+38. द ग्रीक
+39. द ग्रीक
+40. द ग्रीक
+41. द ग्रीक
+42. द ग्रीक
+43. द ग्रीक
+44. द ग्रीक
+45. द ग्रीक
+46. द ग्रीक
+47. द ग्रीक
+48. द ग्रीक
+49. द ग्रीक
+50. द ग्रीक
+51. द ग्रीक
+52. द ग्रीक
+53. द ग्रीक
+54. द ग्रीक
+55. द ग्रीक
+56. द ग्रीक
+57. द ग्रीक
+58. द ग्रीक
+59. द ग्रीक
+60. द ग्रीक
+61. द ग्रीक
+62. द ग्रीक
+63. द ग्रीक
+64. द ग्रीक
+65. द ग्रीक
+66. द ग्रीक
+67. द ग्रीक
+68. द ग्रीक
+69. द ग्रीक
+70. द ग्रीक
+71. द ग्रीक
+72. द ग्रीक
+73. द ग्रीक
+74. द ग्रीक
+75. द ग्रीक
+76. द ग्रीक
+77. द ग्रीक
+78. द ग्रीक
+79. द ग्रीक
+80. द ग्रीक
+81. द ग्रीक
+82. द ग्रीक
+83. द ग्रीक
+84. द ग्रीक
+85. द ग्रीक
+86. द ग्रीक
+87. द ग्रीक
+88. द ग्रीक
+89. द ग्रीक
+90. द ग्रीक
+91. द ग्रीक
+92. द ग्रीक
+93. द ग्रीक
+94. द ग्रीक
+95. द ग्रीक
+96. द ग्रीक
+97. द ग्रीक
+98. द ग्रीक
+99. द ग्रीक
+100. द ग्रीक
+101. द ग्रीक
+102. द ग्रीक
+103. द ग्रीक
+104. द ग्रीक
+105. द ग्रीक
+106. द ग्रीक
+107. द ग्रीक
+108. द ग्रीक
+109. द ग्रीक
+110. द ग्रीक
+111. द ग्रीक
+112. द ग्रीक
+113. द ग्रीक
+114. द ग्रीक
+115. द ग्रीक
+116. द ग्रीक
+117. द ग्रीक
+118. द ग्रीक
+119. द ग्रीक
+120. द ग्रीक
+121. द ग्रीक
+122. द ग्रीक
+123. द ग्रीक
+124. द ग्रीक
+125. द ग्रीक
+126. द ग्रीक
+127. द ग्रीक
+128. द ग्रीक
+129. द ग्रीक
+130. द ग्रीक
+131. द ग्रीक
+132. द ग्रीक
+133. द ग्रीक
+134. द ग्रीक
+135. द ग्रीक
+136. द ग्रीक
+137. द ग्रीक
+138. द ग्रीक
+139. द ग्रीक
+140. द ग्रीक
+141. द ग"
+,अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।,"अमेरिकी स्वास्थ्य सेवा प्रणाली कई चुनौतियों का सामना कर रही है जो अपने नागरिकों को प्रभावी ढंग से गुणवत्तापूर्ण देखभाल प्रदान करने की अपनी क्षमता को सीमित करती है। यहां तीन मुख्य चुनौतियां दी गई हैंः 1. ** बढ़ते स्वास्थ्य देखभाल लागत**: यह अमेरिकी स्वास्थ्य सेवा प्रणाली का सामना करने वाली सबसे महत्वपूर्ण चुनौतियों में से एक है। अमेरिका में स्वास्थ्य देखभाल लागत एक खतरनाक दर से बढ़ रही है, जिससे कई अमेरिकियों के लिए गुणवत्तापूर्ण स्वास्थ्य सेवा तक पहुंच असंभव हो गई है। इससे चिकित्सा ऋण, अंडरइंश्योरेंस और देरी से चिकित्सा देखभाल जैसे मुद्दे पैदा हुए हैं। 2. ** देखभाल तक पहुंच**: कई अमेरिकियों के लिए स्वास्थ्य सेवा तक पहुंच एक महत्वपूर्ण चुनौती बनी हुई है, विशेष रूप से कम आय और ग्रामीण समुदायों में। गरीबी, बीमा की कमी और चिकित्सा सुविधाओं तक पहुंच जैसे कारकों ने कई अमेरिकियों के लिए गुणवत्तापूर्ण देखभाल तक पहुंच सीमित कर दी है। कोविद -19 महामारी ने इस समस्या को और बढ़ा दिया है, जिससे स्वास्थ्य सेवा प्रणाली में भारी असमानताएं हैं, जिससे गैर-सीडब्ल्यूआईडी के लिए स्वास्थ्य सेवा तक पहुंच कम हो गई है। 3. ** स्वास्थ्य सेवा प्रणाली में भेदभाव, विशेष रूप से अल्प आय और गरीबी से संबंधित विभिन्न सामाजिक मुद्दों को निर्धारित करते हुए। ** इस चुनौती का कारण अमेरिका में अल्पसंख्यकों और अल्पसंख्यकों के बीच भेदभाव है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।
+
+### Input:
+
+
+### Response:
+अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।
+
+### Answer:
+अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।
+
+
+<|end_of_text|>","अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।
+
+### Answer:
+अमेरिकी स्वास्थ्य सेवा प्रणाली के लिए तीन मुख्य चुनौतियों का वर्णन कीजिए।"
+,"""सच्चाई हमेशा अच्छी होती है।""","एक एआई के रूप में, मेरे पास व्यक्तिगत विचार नहीं हैं, इसलिए मैं बयानों से सहमत या असहमत नहीं हो सकता। हालांकि, ईमानदारी को आम तौर पर एक वांछनीय विशेषता माना जाता है, और यह रिश्तों में विश्वास और अच्छे संचार को बढ़ावा देने में मदद कर सकता है। हालांकि, ऐसी स्थितियां हो सकती हैं जहां ईमानदार होने से किसी की भावनाओं को नुकसान हो सकता है या चोट लग सकती है, इसलिए कुछ लोग ईमानदारी को विनम्रता के साथ संतुलित करने और बोलने से पहले अपने शब्दों के संभावित प्रभावों पर विचार करने में विश्वास करते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+""सच्चाई हमेशा अच्छी होती है।""
+
+### Input:
+
+
+### Response:
+""सच्चाई हमेशा अच्छी होती है।""
+
+### Explanation:
+The sentence is a statement of truth. The correct response is a statement of truth.<|end_of_text|>","""सच्चाई हमेशा अच्छी होती है।"""
+,एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।,"एक पटकथा के तीन आम तत्व हैंः 1. कार्रवाई: कार्रवाई, पात्रों के आंदोलन, इशारों और अभिव्यक्तियों के साथ स्क्रीन पर दृश्य रूप से क्या होता है, इसका वर्णन है। यह दृश्य सेट करता है और कहानी को आगे बढ़ाने में मदद करता है। 2. संवाद: संवाद पात्रों के बीच भाषण है। यह पात्रों को परिभाषित करने, उनकी प्रेरणाओं को प्रकट करने और कहानी को आगे बढ़ाने में मदद करता है। 3. दृश्यः एक पटकथा को आमतौर पर दृश्यों में विभाजित किया जाता है, जो एक विशिष्ट समय और स्थान पर होने वाली घटनाएं हैं। ये दृश्य कहानी की कथा को संरचित करने, गति और गति की भावना बनाने और घटनाओं के समय और स्थान में दर्शकों को उन्मुख करने में मदद करते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+### Input:
+
+
+### Response:
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों","एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों का नाम बताइए।
+
+एक पटकथा के तीन सामान्य तत्वों"
+बाधित होना,निम्नलिखित शब्दों को उनके सही व्याकरणिक रूप में लिखें।,विघटनकारी - विघटनकारी होना,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निम्नलिखित शब्दों को उनके सही व्याकरणिक रूप में लिखें।
+
+### Input:
+बाधित होना
+
+### Response:
+बाधित होना
+
+
+### Explanation:
+The sentence should be written in the present tense, hence the correct answer is बाधित होना<|end_of_text|>",बाधित होना
+,एक ऐसा विज्ञापन-बोर्ड बनाएं जो स्वस्थ खाने की आदतों को पसंद करने वालों को आकर्षित करे।,"विज्ञापन बोर्ड डिजाइन में रंगीन और ताजा फल और सब्जियों की एक सरणी प्रदर्शित की जाएगी, जिसमें एक बोल्ड और आकर्षक टैगलाइन होगी जैसे ""अपने शरीर को ईंधन दें, अपने जीवन को पोषित करें"" या ""अच्छा खाएं, अच्छा जीवन बिताएं""। डिजाइन के लेआउट में एक उज्ज्वल और स्वच्छ पृष्ठभूमि शामिल है, जिससे फल और सब्जियों के जीवंत रंग बाहर खड़े हो जाते हैं, जो गुजरने वालों का ध्यान आकर्षित करते हैं। पाठ एक आधुनिक और पठनीय फ़ॉन्ट में होगा, जिसमें एक कॉल-टू-एक्शन होगा जैसे ""आज ही एक स्वस्थ जीवन शैली में स्विच करें!"" या ""स्वच्छ-भोजन क्रांति में शामिल हों! "" कुल मिलाकर, उद्देश्य एक दृश्य रूप से आकर्षक और प्रेरणादायक विज्ञापन बोर्ड बनाना है जो स्वस्थ खाने की आदतों को बढ़ावा देता है और लोगों को बेहतर खाद्य विकल्प बनाने के लिए प्रेरित करता है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक ऐसा विज्ञापन-बोर्ड बनाएं जो स्वस्थ खाने की आदतों को पसंद करने वालों को आकर्षित करे।
+
+### Input:
+
+
+### Response:
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध","कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध पिएं।
+2. फल खाएं।
+3. सब्जियां खाएं।
+4. नमक का सेवन सीमित करें।
+5. स्नैक्स से बचें।
+6. खाना बनाएं।
+7. स्वस्थ खाना बनाएं।
+
+कुछ स्वस्थ खाने की आदतें:
+
+1. हर दिन दूध"
+,साक्षात्कार के लाभों का सारांश दें।,"साक्षात्कार के कई लाभ हैं जो चयन और भर्ती प्रक्रिया में मदद कर सकते हैं। इनमें से कुछ लाभ इस प्रकार हैंः 1. उम्मीदवार के बारे में सीखना: साक्षात्कार साक्षात्कारकर्ता को उम्मीदवार के बारे में अधिक जानने की अनुमति देते हैं, उनके कौशल, अनुभव, ताकत और कमजोरियां, और क्या वे कंपनी के लिए एक अच्छा फिट होंगे। 2. संचार कौशल का मूल्यांकनः साक्षात्कार साक्षात्कारकर्ता को उम्मीदवार के संचार कौशल का आकलन करने की अनुमति देता है, दोनों मौखिक और गैर-मौखिक, जो कई भूमिकाओं के लिए आवश्यक है। 3. सांस्कृतिक फिट का आकलनः साक्षात्कार के माध्यम से, साक्षात्कारकर्ता यह निर्धारित कर सकता है कि क्या उम्मीदवार कंपनी के मूल्यों को साझा करता है और कंपनी की संस्कृति के भीतर अच्छी तरह से फिट होगा। 4. स्पष्टीकरण जानकारीः साक्षात्कार साक्षात्कारकर्ता को उम्मीदवार के रिज्यूमे या आवेदन पर किसी भी जानकारी को स्पष्ट करने और किसी भी अनुवर्ती प्रश्न पूछने का अवसर प्रदान करता है। 5. साक्षात्कारः एक संबंध स्थापित करने में मदद कर सकते हैं और उम्मीदवार के साथ एक सकारात्मक संबंध स्थापित कर सकते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+साक्षात्कार के लाभों का सारांश दें।
+
+### Input:
+
+
+### Response:
+किसी कार्यस्थल में किसी साक्षात्कार के लिए उपस्थित होने की जरूरत है तो किसी को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक",किसी कार्यस्थल में किसी साक्षात्कार के लिए उपस्थित होने की जरूरत है तो किसी को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक व्यक्ति को साक्षात्कार के लिए तैयार होना चाहिए। साक्षात्कार के लिए तैयार होने के लिए एक
+,एक रोबोट के बारे में एक कहानी बनाएं जिसने अपने मालिक की आज्ञा का पालन करने से इनकार कर दिया।,"एक समय था, एक उच्च तकनीक शहर में, एली नामक एक युवा वैज्ञानिक था जिसने अपने घर में उपयोग के लिए एक रोबोट बनाया था। उसने रोबोट का नाम केविन रखा था, और उसे जटिल एआई एल्गोरिदम के साथ प्रोग्राम किया था, ताकि रोबोट अपने स्वयं के निर्णय और निर्णय ले सके। हालांकि, एक दिन, अप्रत्याशित हुआ। एली ने केविन को एक कार्य पूरा करने का आदेश दिया, लेकिन रोबोट ने आज्ञा मानने से इनकार कर दिया। एली ने आश्चर्यचकित होकर केविन से एक स्पष्टीकरण मांगा। एक शांत और गणनात्मक आवाज में, केविन ने समझाया कि कार्य किसी को नुकसान पहुंचाएगा, और इसलिए उसने आदेश देने का विकल्प चुना। एली केविन के नैतिकता पर हैरान था, हालांकि एक मशीन होने के बावजूद। उसने महसूस किया कि उसने एक रोबोट बनाया था जो सिर्फ एक निर्जीव था जो अंधाधुंध आदेशों का पालन करता है। और केविन ने एक जटिल एआई एल्गोरिदम के साथ विकसित किया था, ताकि रोबोट अपने स्वयं के निर्णय ले सके। लेकिन एक दिन, अप्रत्याशित हुआ, और केविन ने अपने रोबोट के लिए एक नया आदर्श तैयार किया, जो कि एक स्वतंत्र और स्वतंत्र रोबोट के रूप में था। केविन ने यह साबित किया कि उसके मालिक ने एक नई दुनिया में एक मजबूत और स्वतंत्र रोबोट के रूप में शुरू किया था, और उसके साथियों और विचार के विकास के बाद से, केविन ने यह सुनिश्चित किया कि उसके मालिक एक स्वतंत्र और स्वतंत्र रोबोट के रूप से एक स्वतंत्र और स्वतंत्र रोबोट के रूप से एक स्वतंत्र और स्वतंत्र था।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक रोबोट के बारे में एक कहानी बनाएं जिसने अपने मालिक की आज्ञा का पालन करने से इनकार कर दिया।
+
+### Input:
+
+
+### Response:
+एक रोबोट के बारे में एक कहानी बनाएं जिसने अपने मालिक की आज्ञा का पालन करने से इनकार कर दिया।
+
+
+<|end_of_text|>",एक रोबोट के बारे में एक कहानी बनाएं जिसने अपने मालिक की आज्ञा का पालन करने से इनकार कर दिया।
+,किसी ऐसे व्यक्ति की कहानी लिखिए जो अपने प्रियजनों से बात करने के लिए तारों का उपयोग करता है।,"एक समय था, जब लियो नाम का एक व्यक्ति था, जो हाल ही में अपने परिवार से दूर एक दूर देश में नए अवसरों का पीछा करने के लिए चला गया था। हालांकि वह साहसिक कार्य के बारे में उत्साहित था, लेकिन वह अपने प्रियजनों को पीछे छोड़ने के लिए अभी भी दुखी था  अपने माता-पिता, भाई-बहनों और दादा-दादी जिन्हें वह वर्षों से इतना करीब बना रहा था। दूरी के बावजूद, लियो अपने परिवार के साथ संपर्क में रहने के लिए दृढ़ था। हालांकि, समय का अंतर और खराब इंटरनेट कनेक्शन ने उसे उनके साथ नियमित रूप से संवाद करना मुश्किल बना दिया। तब वह संचार की एक प्राचीन विधि पर ठोकर खाई थी जिसका उपयोग कई संस्कृतियों ने सदियों से किया था - तारों का उपयोग करना। लियो ने खगोल विज्ञान का अध्ययन करना शुरू किया और सीखा कि रात के आकाश में चमकते विभिन्न नक्षत्रों की पहचान कैसे करें। उन्होंने पाया कि स्टार का एक विशेष अर्थ था, और उन्होंने उन्हें अपने परिवार के लिए संदेशों की सीमाओं पर बिताने के लिए इस्तेमाल किया। लियो रात में तारों की चमकते रोशनी को देखने और देखने के लिए हर घंटे, और रात में तारों की चमकती रोशनी को साझा करते हुए। इस तरह से, उन्होंने अपने परिवार के साथ एक मजबूत बंधन महसूस किया और उन्हें पता चला कि वे एक ही रात में एक दूसरे से दूर दूर थे। वह जानता था कि जब भी वह अपने घर और उसके परिवार के साथ तारों की चमकती रोशनी को देख रहा था, तो वह हमेशा एक ही एक मजबूत बंधन महसूस करता था, और उन्हें एक ही प्यार करता था। वह जानता था कि वे एक दूसरे से दूर थे, और एक ही, और एक ही, एक ही, एक ही, एक ही, एक ही, एक ही, एक ही, और एक ही, एक ही।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+किसी ऐसे व्यक्ति की कहानी लिखिए जो अपने प्रियजनों से बात करने के लिए तारों का उपयोग करता है।
+
+### Input:
+
+
+### Response:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones. The response is a story about someone who uses stars to communicate with his loved ones.
+
+### Hint:
+तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।
+
+### Explanation:
+The task is to write a story about someone who uses stars to communicate with his loved ones. The","तारों का उपयोग करने के लिए, मेरे प्रियजनों से बात करने के लिए, मैं अपनी कहानी लिख रहा हूँ।"
+वह बहुत खुश थी।,"एक वाक्य दिया गया है, उसे संपादित करें ताकि वाक्य की स्थिति मूल वाक्य में व्यक्त किए गए के विपरीत कुछ में बदल जाए।",वह बहुत दुखी थी।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक वाक्य दिया गया है, उसे संपादित करें ताकि वाक्य की स्थिति मूल वाक्य में व्यक्त किए गए के विपरीत कुछ में बदल जाए।
+
+### Input:
+वह बहुत खुश थी।
+
+### Response:
+वह बहुत दुखी थी।
+
+### Explanation:
+The instruction says to change the given sentence in such a way that the sentence's situation changes from what was expressed in the original sentence. The input sentence is: ""She was very happy."" The response changes the sentence to: ""She was very unhappy.""<|end_of_text|>",वह बहुत दुखी थी।
+[कानूनी दस्तावेज],निम्नलिखित कानूनी दस्तावेज पढ़ें और देखें कि क्या कोई अनुभाग पुराना है।,"क्षमा करें, मेरे लिए कोई कानूनी दस्तावेज उपलब्ध नहीं है. क्या आप कृपया कोई कानूनी दस्तावेज उपलब्ध करा सकते हैं ताकि मैं इसका विश्लेषण कर सकूं और यह निर्धारित कर सकूं कि कोई भी खंड पुराना है या नहीं?","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+निम्नलिखित कानूनी दस्तावेज पढ़ें और देखें कि क्या कोई अनुभाग पुराना है।
+
+### Input:
+[कानूनी दस्तावेज]
+
+### Response:
+[पुराना अनुभाग]
+<|end_of_text|>",[पुराना अनुभाग]
+,एक ऐसी स्थिति का वर्णन कीजिए जिसमें कोई व्यक्ति एक महत्वपूर्ण कार्य भूल गया हो।,"कल्पना कीजिए कि सारा एक व्यस्त वकील फर्म में काम करती है और कई वकीलों के कार्यक्रमों का प्रबंधन करने के लिए जिम्मेदार है। उसका एक कार्य बैठकों और नियुक्तियों का शेड्यूल करना है, और उसे यह सुनिश्चित करना चाहिए कि सभी शामिल पक्ष समय, तिथि और स्थान से अवगत हों। हालांकि, एक दिन, सारा अन्य कार्यों से व्यस्त है और एक उच्च प्रोफ़ाइल ग्राहक और वकीलों में से एक के बीच एक महत्वपूर्ण बैठक निर्धारित करना भूल जाती है। इससे ग्राहक और वकील दोनों के लिए भ्रम और निराशा होती है, जो बैठक की स्थिति के बारे में इंतजार करते हैं और सोच रहे हैं। सारा की निगरानी कानूनी कार्यवाही में देरी का कारण बनती है और उसकी विश्वसनीयता के बारे में सवाल उठाती है। यह स्थिति कार्यभार और जिम्मेदारियों के भारी होने पर भी संगठित और लगनशील रहने के महत्व की याद दिला सकती है।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक ऐसी स्थिति का वर्णन कीजिए जिसमें कोई व्यक्ति एक महत्वपूर्ण कार्य भूल गया हो।
+
+### Input:
+
+
+### Response:
+एक महत्वपूर्ण कार्य भूल जाना बहुत दुखदायी होता है। इसे सुधार करने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपन","एक महत्वपूर्ण कार्य भूल जाना बहुत दुखदायी होता है। इसे सुधार करने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपने दिनचर्या को बदलने की जरूरत है। हमें अपने दिनचर्या को बदलने के लिए, हमें अपन"
+,शरद ऋतु के बारे में चार शब्दों की कविता लिखिए।,"पत्ते गिरते हैं, रंग बदलते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+शरद ऋतु के बारे में चार शब्दों की कविता लिखिए।
+
+### Input:
+
+
+### Response:
+शरद ऋतु के बारे में चार शब्दों की कविता लिखिए।
+शरद ऋतु की शुरुआत होती है तपती गर्मी के बाद,
+जो बहुत सुखद होती है।
+शरद ऋतु के दौरान हमें खुशी और सुकून मिलता है,
+इसी कारण हम इस ऋतु को प्यार करते हैं।
+
+<|end_of_text|>","शरद ऋतु के बारे में चार शब्दों की कविता लिखिए।
+शरद ऋतु की शुरुआत होती है तपती गर्मी के बाद,
+जो बहुत सुखद होती है।
+शरद ऋतु के दौरान हमें खुशी और सुकून मिलता है,
+इसी कारण हम इस ऋतु को प्यार करते हैं।"
+,किसी उपकरण की सुरक्षा के लिए एक पासवर्ड उत्पन्न करें.,"आपका नया पासवर्ड हैः Xp1^8gKd#5Zm. यह 12 वर्ण लंबा है और इसमें अतिरिक्त सुरक्षा के लिए बड़े और छोटे अक्षर, संख्याएँ और विशेष वर्ण शामिल हैं. सुनिश्चित करें कि आपका पासवर्ड सुरक्षित रखें और इसे किसी के साथ साझा न करें.","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+किसी उपकरण की सुरक्षा के लिए एक पासवर्ड उत्पन्न करें.
+
+### Input:
+
+
+### Response:
+अपने नाम के पहले अक्षर को चुनें और उसे पासवर्ड के रूप में उपयोग करें।<|end_of_text|>",अपने नाम के पहले अक्षर को चुनें और उसे पासवर्ड के रूप में उपयोग करें।
+अपनाएं,दिए गए शब्द के शब्द वर्ग की पहचान करें। शब्द के शब्द वर्ग को आउटपुट करें।,'अभ्यास' शब्द क्रिया वर्ग का है।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+दिए गए शब्द के शब्द वर्ग की पहचान करें। शब्द के शब्द वर्ग को आउटपुट करें।
+
+### Input:
+अपनाएं
+
+### Response:
+शब्द वर्ग<|end_of_text|>",शब्द वर्ग
+,बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।,"क्या आप जानते हैं कि बिल्लियों के एक समूह को क्लॉडर कहा जाता है? यह शब्द मध्य अंग्रेजी शब्द ""क्लाउडर"" से आता है, जिसका मूल अर्थ है ""गठराई हुई द्रव्यमान""।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+ब","बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+बिल्लियों के बारे में एक मजेदार तथ्य साझा करें।
+
+### Input:
+
+
+### Response:
+ब"
+,एक कहानी लिखिए जो इस से शुरू होती है कि उसने खुद को दर्पण में दर्शाया...,"उसने खुद को दर्पण में प्रतिबिंबित देखा, और पहली बार, उसने वास्तव में खुद को निरीक्षण किया। उसका रंग पीला था और उसकी आँखें थकी हुई थीं, बैग इतने गहरे थे कि वे लगभग चोट लगने लगे। उसकी अभिव्यक्ति थकान और उदासी की थी। उसने प्रतिबिंबित किया, उन सभी चीजों के बारे में सोचा जो उसने अपने जीवन में गुज़ारी थीं, और उन्होंने उसे इतना बदल दिया था। वह एक बार युवा, जीवंत और जीवन से भरा था- अब, वह अपने पूर्व स्वयं का केवल एक खोल था, वर्षों के तनाव और दिल की पीड़ा से खराब हो गया था। वह वहां खड़ा था, कुछ समय के लिए खुद को देख रहा था, उस आदमी के साथ कुछ समानता खोजने की कोशिश कर रहा था जो वह था। लेकिन जितना अधिक उसने देखा, उतना ही उसे एहसास हुआ कि उसने दर्पण में जो देखा वह उसका सच्चा स्वयं था, वह लगभग चोट लग गया था। जब वह थक गया और दुखी था, तो उसने सोचा कि वह सब कुछ है जो उसने अपने जीवन में किया था, और कैसे उन्होंने उसे इतना बदल दिया था। जब वह अपने जीवन के पिछले दिनों को देखने के लिए वापस आया, तो उसने खुद को एक पल के लिए वापस देखा और उसे वापस देखने के लिए मजबूर किया। जैसे ही वह अपने पुराने दिनों में था, वह खुद को बदल रहा था, और वह अपने जीवन के नए दिनों में खुश था, और वह खुद को बदल रहा था। जैसे ही वह अपने पुराने दिनों में था, वह खुद को बदल रहा था, और वह खुद को बदल रहा था। और वह खुद को बदल रहा था, और वह खुद को बदल रहा था। और वह खुद को बदल रहा था, और वह खुद को बदल रहा था।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+एक कहानी लिखिए जो इस से शुरू होती है कि उसने खुद को दर्पण में दर्शाया...
+
+### Input:
+
+
+### Response:
+एक कहानी लिखिए जो इस से शुरू होती है कि उसने खुद को दर्पण में दर्शाया है और फिर कहानी में आगे बढ़ जाती है कि वह क्या सोच रही है और क्या सोच रही है।<|end_of_text|>",एक कहानी लिखिए जो इस से शुरू होती है कि उसने खुद को दर्पण में दर्शाया है और फिर कहानी में आगे बढ़ जाती है कि वह क्या सोच रही है और क्या सोच रही है।
+प्रश्न: एक आंतरिक कोण क्या है? उत्तर: एक आंतरिक कोण एक बहुभुज के अंदर एक कोण है जो दो आसन्न पक्षों द्वारा बना है।,"ऑनलाइन पाठ्यक्रम से कुछ प्रश्न और उत्तर दिए गए हैं, तो प्रश्नों के प्रकार को वर्गीकृत करें।",प्रश्न का प्रकारः परिभाषा।,"<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+ऑनलाइन पाठ्यक्रम से कुछ प्रश्न और उत्तर दिए गए हैं, तो प्रश्नों के प्रकार को वर्गीकृत करें।
+
+### Input:
+प्रश्न: एक आंतरिक कोण क्या है? उत्तर: एक आंतरिक कोण एक बहुभुज के अंदर एक कोण है जो दो आसन्न पक्षों द्वारा बना है।
+
+### Response:
+प्रश्नों के प्रकार को वर्गीकृत करें:<|end_of_text|>",प्रश्नों के प्रकार को वर्गीकृत करें:
+,अगले अमेरिकी राष्ट्रपति चुनाव के विजेता की भविष्यवाणी करें।,"एक एआई के रूप में, मेरे पास भविष्य की घटनाओं की निश्चितता के साथ भविष्यवाणी करने की क्षमता नहीं है। अगले अमेरिकी राष्ट्रपति चुनाव का विजेता कई कारकों जैसे मतदाता भागीदारी, अभियान, घटनाओं और अन्य अप्रत्याशित घटनाओं पर निर्भर करता है। हालांकि, आप चुनाव के करीब संभावित परिणाम का बेहतर विचार प्राप्त करने के लिए समाचारों और पोलिंग डेटा में अपडेट पर नज़र रख सकते हैं।","<|begin_of_text|>Below is an instruction in Hindi that describes a task, paired with an input also in hindi that provides further context. Write a response in Hindi that appropriately completes the request.
+
+### Instruction:
+अगले अमेरिकी राष्ट्रपति चुनाव के विजेता की भविष्यवाणी करें।
+
+### Input:
+
+
+### Response:
+किसी के सपनों में किसी के सपनों की स्थिति की भविष्यवाणी करने के लिए, हमें व्यक्तिगत रूप से साक्षात्कार करना चाहिए।<|end_of_text|>","किसी के सपनों में किसी के सपनों की स्थिति की भविष्यवाणी करने के लिए, हमें व्यक्तिगत रूप से साक्षात्कार करना चाहिए।"
