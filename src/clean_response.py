@@ -3,7 +3,7 @@ import re
 import sys
 sys.path.append("/Users/shreeyadhakal/Desktop/Projects-2023/llama-3-finetune/")
 
-file_path = 'infer_out/alpaca_hindi_test_0809_200.csv'
+file_path = 'infer_out/alpaca_hindi_test_lora_0831.csv'
 df = pd.read_csv(file_path)
 
 def extract_clean_response(text):
@@ -18,7 +18,7 @@ df['cleaned_response'] = df['generated_text'].apply(extract_clean_response)
 
 df[['generated_text', 'cleaned_response']].head()
 
-output_file_path = 'infer_out/alpaca_hindi_test_0809_200_cleaned.csv'
+output_file_path = 'infer_out/alpaca_hindi_test_lora_0831_cleaned.csv'
 df.to_csv(output_file_path, index=False)
 
 output_file_path
